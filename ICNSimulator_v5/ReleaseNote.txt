@@ -1,0 +1,64 @@
+Versão 5.0.0.0 - 18 de Agosto de 2014
+
+- Inserido as filas nos roteadores;
+- Inserido roteadores com cache limitada;
+- O vetor de eventos foi trocado por uma lista encadeada.
+
+------------------------------------------------------------------------------------------------
+Versão 4.2.0.0 - 17 de Agosto de 2014
+
+- Removido a Thread de consumo de pacotes. Todo o algoritmo será sequencial pois 
+o CLUSTER de computadores não aceita thread.
+
+------------------------------------------------------------------------------------------------
+Versão 4.1.0.0 - 23 de Julho de 2014
+
+- Incluido na configuracao o tipo de roteador: Probabilidade fixa ou RC;
+- Criacao de novos tipo de roteadores: Prob ou RC;
+- Incluido Trace;
+- O incremento do RC deve ser feito ao final da chegada do pacote e nao no inicio como estava.
+
+------------------------------------------------------------------------------------------------
+Versão 4.0.0.0 - 22 de Junho de 2014
+
+- Adicionado incremento e decremento do RC; 
+- Roteador sem fila.
+
+------------------------------------------------------------------------------------------------
+Versão 3.5.0.0 - 09 de Março de 2014
+
+- Adicionado o Random Walking;
+- Há conteúdos nos roteadores;
+- Roteadores com fila;
+- Incluído na configuração a taxa de transmissão por domínio.
+
+------------------------------------------------------------------------------------------------
+Versão 3.0.0.0 - 08 de Março de 2014
+
+- Adicionado o Random Walking;
+- Não há conteúdos nos roteadores e nem no NRS;
+- Roteadores com fila.
+
+------------------------------------------------------------------------------------------------
+Versão 2.5.0.0 - 08 de Março de 2014
+
+- Adicionado o Random Walking;
+- Há conteúdos nos roteadores;
+- Roteadores sem fila.
+
+------------------------------------------------------------------------------------------------
+Versão 2.0.0.0 - 08 de Março de 2014
+
+- Adicionado o Random Walking;
+- Não há conteúdos nos roteadores e nem no NRS;
+- Roteadores sem fila.
+
+------------------------------------------------------------------------------------------------
+Versão 1.0.0.0 - 02 de Janeiro de 2014
+
+- Pacote é gerado pelo cliente e enviado ao NRS passando por apenas 1 roteador de cada domínio;
+- Não há Random Walking;
+- Não há conteúdos nos roteadores e nem no NRS;
+- Os pacotes são gerados seguindo uma distribuição configurada;
+- Os pacotes são enviados seguindo uma distribuição configurada;
+- Os roteadores são escolhidos aleatoreamente a cada envio.
