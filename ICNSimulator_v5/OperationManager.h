@@ -43,6 +43,11 @@ struct stEvent
 	int iTypeEvent;
 	struct stEvent* nextEv;
 	struct stEvent* previousEv;
+
+	//Added for use with Ordered_LinkedList
+	static bool operator>(stEvent* s_ev);
+	static bool operator<(stEvent* s_ev);
+
 };
 
 class OperationManager

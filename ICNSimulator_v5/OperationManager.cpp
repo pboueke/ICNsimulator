@@ -597,3 +597,19 @@ bool OperationManager::IsDebug(int iNode)
 //	timeInCachePerContent_[domain][classType] += diff;
 //	iPckTimeInCachePerContent_[domain][classType]++;
 //}
+
+
+static bool stEvent::operator>(stEvent* s_ev){
+	if(this->time == s_ev->time)
+		s_ev->time += 0.001;
+
+	return this->time > s_ev->time;
+}
+static bool stEvent::operator<(stEvent* s_ev){
+	if(this->time == s_ev->time)
+		s_ev->time += 0.001;
+
+	return this->time < s_ev->time;
+}
+
+
