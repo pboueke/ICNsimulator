@@ -45,8 +45,8 @@ struct stEvent
 	struct stEvent* previousEv;
 
 	//Added for use with Ordered_LinkedList
-	static bool operator>(stEvent* s_ev);
-	static bool operator<(stEvent* s_ev);
+	bool operator>(stEvent* s_ev);
+	bool operator<(stEvent* s_ev);
 
 };
 

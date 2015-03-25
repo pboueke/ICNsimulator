@@ -7,9 +7,9 @@
 
 /* READ-ME
  * The compiler requires both the template definition and type you intend to use with it.
- * Usual approaches include the use o 'export' for compiling the .cphosep file, or instantiating
+ * Usual approaches include the use o 'export' for compiling the .cpp file, or instantiating
  * a 'template class yourclass<yourtype>;' where it is being called. Those methods are not ideal,
- * you should define everythyng in the header.
+ * you should define everything in the header.
  * For more info: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf
 */
 
