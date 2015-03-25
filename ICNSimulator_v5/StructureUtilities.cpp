@@ -1,9 +1,20 @@
-#include "StructureUtilities.h"
+/*
+ * StructureUtilities.cpp
+ *
+ *  Created on: 24/03/2015
+ *      Author: Pedro H Boueke
+ */
 
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <sstream>
+/* READ-ME
+ * The compiler requires both the template definition and type you intend to use with it.
+ * Usual approaches include the use o 'export' for compiling the .cphosep file, or instantiating
+ * a 'template class yourclass<yourtype>;' where it is being called. Those methods are not ideal,
+ * you should define everythyng in the header.
+ * For more info: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf
+*/
+
+/*
+#include "StructureUtilities.h"
 
 using namespace std;
 
@@ -92,3 +103,18 @@ bool Ordered_LinkedList<T>::Remove(T index){
     }
     return false;
 }
+
+template <class T>
+int Ordered_LinkedList<T>::Size(){
+	return size;
+}
+
+template <class T>
+Element<T>* Ordered_LinkedList<T>::GetElementN(int index){
+	    for (Element<T>* it = first; it != NULL; it = it->next){
+	        if (it->index == index){
+	        	return it;
+	        }
+	    }
+	}
+*/

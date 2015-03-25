@@ -233,8 +233,9 @@ void OperationManager::EnqueueEvent(BaseNode* node, double time, int iTypeEv)
 //	event = NULL;
 
 //	pthread_mutex_lock(&mutexEventHandler_);
-	eventList_.push_back(event);
-	sort(eventList_.begin(), eventList_.end(), OperationManager::Sorter);
+	eventList_.Add(event);
+	//eventList_.push_back(event);
+	//sort(eventList_.begin(), eventList_.end(), OperationManager::Sorter);
 
 //	pthread_cond_signal(&signalToProcessEv_);
 //	pthread_mutex_unlock(&mutexEventHandler_);
@@ -298,10 +299,11 @@ stEvent* OperationManager::DequeueEvent()
 		return ev;
 	}*/
 
-	if(eventList_.size() > 0)
+	if(eventList_.Size() > 0)
 	{
-		stEvent* ev = eventList_[0];
-		eventList_.erase(eventList_.begin());
+		stEvent* ev = eventList_.Remove_Head();
+		//stEvent* ev = eventList_[0];
+		//eventList_.erase(eventList_.begin());
 
 		//Logger::instance()->LogInfo("OperationManager::DequeueEventAtCurrentTime - Event at " + StringUtility::toString(ev->time) + " deleted. Array size = " + StringUtility::toString((int)eventList_.size()));
 		return ev;

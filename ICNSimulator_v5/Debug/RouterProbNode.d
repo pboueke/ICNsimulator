@@ -1,7 +1,7 @@
-RouterProbNode.d RouterProbNode.o: ../RouterProbNode.cpp \
- ../OperationManager.h ../Geral.h ../Logger.h ../TimeHandler.h \
- ../StringUtility.h ../SimConfiguration.h ../BaseNode.h ../DistUtility.h \
- ../ClientNode.h ../ServerNode.h ../RouterBaseNode.h ../RouterProbNode.h \
+RouterProbNode.d: ../RouterProbNode.cpp ../OperationManager.h ../Geral.h \
+ ../Logger.h ../TimeHandler.h ../StringUtility.h ../StructureUtilities.h \
+ ../SimConfiguration.h ../BaseNode.h ../DistUtility.h ../ClientNode.h \
+ ../ServerNode.h ../RouterBaseNode.h ../RouterProbNode.h \
  ../RouterRcNodeNQueue.h ../RouterRcNodeQueue.h
 
 ../OperationManager.h:
@@ -13,6 +13,8 @@ RouterProbNode.d RouterProbNode.o: ../RouterProbNode.cpp \
 ../TimeHandler.h:
 
 ../StringUtility.h:
+
+../StructureUtilities.h:
 
 ../SimConfiguration.h:
 

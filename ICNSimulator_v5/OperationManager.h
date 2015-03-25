@@ -23,6 +23,7 @@
 
 #include "Geral.h"
 #include "Logger.h"
+#include "StructureUtilities.h"
 #include "SimConfiguration.h"
 #include "BaseNode.h"
 #include "ClientNode.h"
@@ -119,7 +120,7 @@ private:
 
 	SimConfiguration* config_;
 	vector<BaseNode*> nodes_;
-	vector<stEvent*> eventList_;
+	Ordered_LinkedList<stEvent*> eventList_; 	//vector<stEvent*> eventList_;
 	stEvent* pStartEvents;
 	stEvent* pEndEvents;
 	stEvent* pMiddleEvents;

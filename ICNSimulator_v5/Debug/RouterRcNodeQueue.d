@@ -1,8 +1,8 @@
-RouterRcNodeQueue.d RouterRcNodeQueue.o: ../RouterRcNodeQueue.cpp \
- ../OperationManager.h ../Geral.h ../Logger.h ../TimeHandler.h \
- ../StringUtility.h ../SimConfiguration.h ../BaseNode.h ../DistUtility.h \
- ../ClientNode.h ../ServerNode.h ../RouterBaseNode.h ../RouterProbNode.h \
- ../RouterRcNodeNQueue.h ../RouterRcNodeQueue.h
+RouterRcNodeQueue.d: ../RouterRcNodeQueue.cpp ../OperationManager.h \
+ ../Geral.h ../Logger.h ../TimeHandler.h ../StringUtility.h \
+ ../StructureUtilities.h ../SimConfiguration.h ../BaseNode.h \
+ ../DistUtility.h ../ClientNode.h ../ServerNode.h ../RouterBaseNode.h \
+ ../RouterProbNode.h ../RouterRcNodeNQueue.h ../RouterRcNodeQueue.h
 
 ../OperationManager.h:
 
@@ -13,6 +13,8 @@ RouterRcNodeQueue.d RouterRcNodeQueue.o: ../RouterRcNodeQueue.cpp \
 ../TimeHandler.h:
 
 ../StringUtility.h:
+
+../StructureUtilities.h:
 
 ../SimConfiguration.h:
 

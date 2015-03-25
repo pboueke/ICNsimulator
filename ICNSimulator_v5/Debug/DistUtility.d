@@ -1,5 +1,4 @@
-DistUtility.d DistUtility.o: ../DistUtility.cpp ../DistUtility.h \
- ../Geral.h
+DistUtility.d: ../DistUtility.cpp ../DistUtility.h ../Geral.h
 
 ../DistUtility.h:
 
