@@ -233,7 +233,11 @@ void OperationManager::EnqueueEvent(BaseNode* node, double time, int iTypeEv)
 //	event = NULL;
 
 //	pthread_mutex_lock(&mutexEventHandler_);
-	eventList_.Add(event);
+	eventList_.Add(*event);
+	// At .Add(ev), we use operator>. In it's implementation we do not add add 0.001 to the time (as we do in OperationManager::Sorter)
+	// of the event we are comparing it to since the operator must not change any of the values. This may cause multiple events with the
+	// same time, witch did not happen in the original code.
+
 	//eventList_.push_back(event);
 	//sort(eventList_.begin(), eventList_.end(), OperationManager::Sorter);
 
@@ -301,7 +305,7 @@ stEvent* OperationManager::DequeueEvent()
 
 	if(eventList_.Size() > 0)
 	{
-		stEvent* ev = eventList_.Remove_Head();
+		stEvent* ev = new stEvent(eventList_.Remove_Head());
 		//stEvent* ev = eventList_[0];
 		//eventList_.erase(eventList_.begin());
 
@@ -599,17 +603,30 @@ bool OperationManager::IsDebug(int iNode)
 //}
 
 
-bool stEvent::operator>(stEvent* s_ev){
-	if(this->time == s_ev->time)
-		s_ev->time += 0.001;
+bool stEvent::operator>(stEvent& s_ev){
+	double aux_time = s_ev.time;
+	if(this->time == aux_time)
+		aux_time += 0.001;
 
-	return this->time > s_ev->time;
+	return this->time > aux_time;
 }
-bool stEvent::operator<(stEvent* s_ev){
-	if(this->time == s_ev->time)
-		s_ev->time += 0.001;
 
-	return this->time < s_ev->time;
+bool stEvent::operator<(stEvent& s_ev){
+	double aux_time = s_ev.time;
+	if(this->time == aux_time)
+		aux_time += 0.001;
+
+	return this->time < aux_time;
+}
+
+stEvent::stEvent(){};
+
+stEvent::stEvent(const stEvent& other){
+//	this = *ev_ptr;
+	time = other.time;
+	oNode = other.oNode;
+	nextEv = other.nextEv;
+	previousEv = other.previousEv;
 }
 
 

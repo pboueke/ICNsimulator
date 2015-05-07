@@ -80,7 +80,7 @@ void Ordered_LinkedList<T>::Add(T index){
         first = e;
         last = e;
     }
-    else if (e->index > first->index){
+    else if (e->index > first->index){ //responsible for operator overload in stEvent class
         //Element is new first
         e->next = first;
         first = e;

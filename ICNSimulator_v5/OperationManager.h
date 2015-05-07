@@ -45,8 +45,11 @@ struct stEvent
 	struct stEvent* previousEv;
 
 	//Added for use with Ordered_LinkedList
-	bool operator>(stEvent* s_ev);
-	bool operator<(stEvent* s_ev);
+	stEvent();
+	stEvent(const stEvent& other);
+
+	bool operator>(stEvent& s_ev); //used in structureUtilities.h
+	bool operator<(stEvent& s_ev);
 
 };
 
@@ -125,7 +128,7 @@ private:
 
 	SimConfiguration* config_;
 	vector<BaseNode*> nodes_;
-	Ordered_LinkedList<stEvent*> eventList_; 	//vector<stEvent*> eventList_;
+	Ordered_LinkedList<stEvent> eventList_; 	//vector<stEvent*> eventList_;
 	stEvent* pStartEvents;
 	stEvent* pEndEvents;
 	stEvent* pMiddleEvents;

@@ -1,0 +1,21 @@
+Time,Direction,Event
+0,-,Client started.
+100000,,Packages in the buffer, 2499697
+Number of package, 2499699
+Number of package Input,0
+Number of package Output,2
+Number of transmissions, 2
+Utilization, 1
+E[N], 1.24996e+06
+W, 0.0470697
+
+Number of packages from class 0,1012388
+Number of packages from class 1,440607
+Number of packages from class 2,271455
+Number of packages from class 3,193189
+Number of packages from class 4,146780
+Number of packages from class 5,117771
+Number of packages from class 6,97677
+Number of packages from class 7,83004
+Number of packages from class 8,73087
+Number of packages from class 9,63741

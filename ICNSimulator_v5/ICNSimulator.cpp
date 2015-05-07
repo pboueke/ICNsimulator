@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
 	}
 
 	Logger::instance()->LogInfo("PESC/COPPE - UFRJ");
-	Logger::instance()->LogInfo("ICN Simulator - Version 5.0.0.0");/*
+	Logger::instance()->LogInfo("ICN Simulator - Version 5.0.0.0");
 	cout << "Command:" << endl;
 	cin >> command;
 
@@ -135,5 +135,5 @@ int main(int argc, char *argv[])
 
 	OperationManager::instance()->Stop();
 
-	return EXIT_SUCCESS;*/
+	return EXIT_SUCCESS;
 }
