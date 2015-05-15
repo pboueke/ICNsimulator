@@ -1,0 +1,1229 @@
+Current Time: 0 - Info: PESC/COPPE - UFRJ
+Current Time: 0 - Info: ICN Simulator - Version 5.0.0.0
+Current Time: 0 - Info: SimConfiguration::FillLimitsParams - RC Limits loaded (10,10)
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:10,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:30,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:30,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:30,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:30,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (2), number of parameters = 2
+Current Time: 0 - Info: Parameters:1,0,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (3), number of parameters = 1
+Current Time: 0 - Info: Parameters:2,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:29.5,
+Current Time: 0 - Info: SimConfiguration::Parser - Number of nodes = 207
+Current Time: 0 - Info: SimConfiguration::Parser - Number of domains = 3
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CPII-CENTRO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CPII)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ_OV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-OV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (HSE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-HSE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MHN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MHN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FAPERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-FAPERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FUNARTE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-FUNARTE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (SIX)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-SIX)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (ABC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-ABC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (DATASUS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-DATASUS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CAMPANEMA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CAMPANEMA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FBN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-FBN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MNBA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MNBA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-ESDI)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-ESDI)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-ENM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-ENM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-IFCS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-IFCS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-FD)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-FD)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INCA-I)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INCA-I)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-HMF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-HMF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNIRIO-IB)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UNIRIO-IB)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MIX)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MIX)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-EEAN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-EEAN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-HESFA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-HESFA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-CCBLS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-CCBLS)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MRPC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MRPC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CNF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CNF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-MAT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-MAT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INES)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INES)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FCRB)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MHN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CPII-HM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CPII-HM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-CL)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-CL)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNIRIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UNIRIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FESP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-FESP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CNEN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CNEM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CBPF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CBPF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-CAE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-CAE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IFF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-IFF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FINEP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-FINEP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (PUC-RIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-PUC-RIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (EMBRAPA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-EMBRAPA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (JBRJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-JBRJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IMPA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-IMPA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CAP-UERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CAP-UERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CPII-TJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CPII-TJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (HUGG-PG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-HUGG-PG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (HUGG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-HUGG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (ISERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-ISERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IFECT-RJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-IFECT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEFET-RJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CEFET)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-MN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ-MN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INCA-II)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INCA-II)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INTO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INTO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CTAV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CTAV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-FEN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-FEN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CPII-SC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CPII-SC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MAST)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-MAST)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (ON)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-ON)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEDERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CEDERJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-PPC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-PPC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CPII-EN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CPII-EN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INCA-III-IV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-INCA-III-IV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-HUPE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UERJ-HUPE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-UFRJ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CETEM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CETEM)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEPEL)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-CEPEL)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IEN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-RJ-IEN)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (MIX-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (SIX-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CBPF-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-RIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (PUC-RIO-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEFET-RJ-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UERJ-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FIOCRUZ-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFRJ-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-RIO-SUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-SP-SUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-BH-SUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (NRS-BH)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (NRS-SP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (NRS-RIO)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FJP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-FJP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-DEG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-DEG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-BH)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-RNP-BH)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IGA-SECTES)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-IGA-SECTES)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFMG-MUSEU)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UFMG-MUSEU)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CETEC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-CETEC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-REIT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-REIT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-PP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-PP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-EDU)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-EDU)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-GUIG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-GUIG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FAPEMIG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-FAPEMIG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IFMG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-IFMG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (PUC-MG)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-PUC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-MUSICA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-UEMG-MUSICA)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FIOCRUZ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-FIOCRUZ)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEFET-II)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-CEFET-II)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEFET-IV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-MG-CEFET-IV)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-BH-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CETEC-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UEMG-REIT-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FIOCRUZ-BH-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CEFET-I-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UFABC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-UFABC)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (IFSP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-IFSP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (USP-FD)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-USP-FD)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNESP-ITF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-UNESP-ITF)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (FUNARTE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-FUNARTE)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNESP-REIT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (CLIENTE-SP-UNESP-REIT)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNESP-REIT-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (USP-FD-DUP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (UNIFESP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (RNP-SP)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 100
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (INCOR-SP)
+Current Time: 0 - Info: SimConfiguration::Parser - Number of contents = 10
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content1)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content2)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content3)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content4)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content5)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content6)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content7)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content8)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content9)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content10)
+Current Time: 0 - Info: OperationManager::LoadConfiguration - Configuration loaded.
+Current Time: 0 - Info: TimeHandler::startCountingSimTime - Start simulation at 05/14/15 11:50:58
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CPII-CENTRO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CPII
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ_OV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-OV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) HSE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-HSE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MHN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MHN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FAPERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-FAPERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FUNARTE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-FUNARTE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) SIX
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-SIX
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) ABC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-ABC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) DATASUS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-DATASUS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CAMPANEMA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CAMPANEMA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FBN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-FBN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MNBA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MNBA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-ESDI
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-ESDI
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-ENM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-ENM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-IFCS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-IFCS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-FD
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-FD
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INCA-I
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INCA-I
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-HMF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-HMF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNIRIO-IB
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UNIRIO-IB
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MIX
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MIX
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-EEAN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-EEAN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-HESFA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-HESFA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-CCBLS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-CCBLS
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MRPC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MRPC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CNF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CNF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-MAT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-MAT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INES
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INES
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FCRB
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MHN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CPII-HM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CPII-HM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-CL
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-CL
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNIRIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UNIRIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FESP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-FESP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CNEN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CNEM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CBPF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CBPF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-CAE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-CAE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IFF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-IFF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FINEP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-FINEP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) PUC-RIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-PUC-RIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) EMBRAPA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-EMBRAPA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) JBRJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-JBRJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IMPA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-IMPA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CAP-UERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CAP-UERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CPII-TJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CPII-TJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) HUGG-PG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-HUGG-PG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) HUGG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-HUGG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) ISERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-ISERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IFECT-RJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-IFECT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEFET-RJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CEFET
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-MN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ-MN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INCA-II
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INCA-II
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INTO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INTO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CTAV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CTAV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-FEN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-FEN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CPII-SC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CPII-SC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MAST
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-MAST
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) ON
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-ON
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEDERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CEDERJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-PPC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-PPC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CPII-EN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CPII-EN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INCA-III-IV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-INCA-III-IV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-HUPE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UERJ-HUPE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-UFRJ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CETEM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CETEM
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEPEL
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-CEPEL
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IEN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-RJ-IEN
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) MIX-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) SIX-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CBPF-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-RIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) PUC-RIO-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEFET-RJ-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UERJ-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FIOCRUZ-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFRJ-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-RIO-SUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-SP-SUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-BH-SUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating NRS server node NRS-BH
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating NRS server node NRS-SP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating NRS server node NRS-RIO
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FJP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-FJP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-DEG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-DEG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-BH
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-RNP-BH
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IGA-SECTES
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-IGA-SECTES
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFMG-MUSEU
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UFMG-MUSEU
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CETEC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-CETEC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-REIT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-REIT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-PP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-PP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-EDU
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-EDU
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-GUIG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-GUIG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FAPEMIG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-FAPEMIG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IFMG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-IFMG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) PUC-MG
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-PUC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-MUSICA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-UEMG-MUSICA
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FIOCRUZ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-FIOCRUZ
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEFET-II
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-CEFET-II
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEFET-IV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-MG-CEFET-IV
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-BH-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CETEC-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UEMG-REIT-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FIOCRUZ-BH-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) CEFET-I-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UFABC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-UFABC
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) IFSP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-IFSP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) USP-FD
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-USP-FD
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNESP-ITF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-UNESP-ITF
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) FUNARTE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-FUNARTE
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNESP-REIT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node CLIENTE-SP-UNESP-REIT
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNESP-REIT-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) USP-FD-DUP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) UNIFESP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) RNP-SP
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) INCOR-SP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-CENTRO to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-CENTRO to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-CENTRO to node UFRJ_OV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-CENTRO to node UFRJ-HESFA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CPII to node CPII-CENTRO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ_OV to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ_OV to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ_OV to node CPII-CENTRO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ_OV to node HSE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-OV to node UFRJ_OV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HSE to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HSE to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HSE to node UFRJ_OV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HSE to node INT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-HSE to node HSE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INT to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INT to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INT to node HSE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INT to node MHN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INT to node INT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MHN to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MHN to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MHN to node INT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MHN to node FAPERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MHN to node MHN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FAPERJ to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FAPERJ to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FAPERJ to node MHN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FAPERJ to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-FAPERJ to node FAPERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FUNARTE to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FUNARTE to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FUNARTE to node FAPERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FUNARTE to node SIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-FUNARTE to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node SIX to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node SIX to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node SIX to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node SIX to node ABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-SIX to node SIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ABC to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ABC to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ABC to node SIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ABC to node DATASUS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-ABC to node ABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node DATASUS to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node DATASUS to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node DATASUS to node ABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node DATASUS to node CAMPANEMA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-DATASUS to node DATASUS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CAMPANEMA to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CAMPANEMA to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CAMPANEMA to node DATASUS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CAMPANEMA to node FBN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CAMPANEMA to node CAMPANEMA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FBN to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FBN to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FBN to node CAMPANEMA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FBN to node MNBA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-FBN to node FBN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MNBA to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MNBA to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MNBA to node FBN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MNBA to node UERJ-ESDI
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MNBA to node MNBA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-ESDI to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-ESDI to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-ESDI to node MNBA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-ESDI to node UFRJ-ENM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-ESDI to node UERJ-ESDI
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-ENM to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-ENM to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-ENM to node UERJ-ESDI
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-ENM to node UFRJ-IFCS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-ENM to node UFRJ-ENM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-IFCS to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-IFCS to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-IFCS to node UFRJ-ENM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-IFCS to node UFRJ-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-IFCS to node UFRJ-IFCS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-FD to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-FD to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-FD to node UFRJ-IFCS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-FD to node INCA-I
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-FD to node UFRJ-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-I to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-I to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-I to node UFRJ-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-I to node UFRJ-HMF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INCA-I to node INCA-I
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-HMF to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-HMF to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-HMF to node INCA-I
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-HMF to node UNIRIO-IB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-HMF to node UFRJ-HMF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNIRIO-IB to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNIRIO-IB to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIRIO-IB to node UFRJ-HMF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIRIO-IB to node MIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UNIRIO-IB to node UNIRIO-IB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MIX to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MIX to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MIX to node UNIRIO-IB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MIX to node UFRJ-EEAN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MIX to node MIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-EEAN to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-EEAN to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-EEAN to node MIX
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-EEAN to node UFRJ-HESFA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-EEAN to node UFRJ-EEAN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-HESFA to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-HESFA to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-HESFA to node UFRJ-EEAN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-HESFA to node CPII-CENTRO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-HESFA to node UFRJ-HESFA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-CCBLS to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-CCBLS to node FINEP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-CCBLS to node MRPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-CCBLS to node UERJ-CCBLS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MRPC to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MRPC to node UERJ-CCBLS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MRPC to node CNF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MRPC to node MRPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CNF to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CNF to node MRPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CNF to node UFRJ-MAT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CNF to node CNF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-MAT to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-MAT to node CNF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-MAT to node INES
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-MAT to node UFRJ-MAT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INES to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INES to node UFRJ-MAT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INES to node INC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INES to node INES
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INC to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INC to node INES
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INC to node FCRB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INC to node INC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FCRB to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FCRB to node INC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FCRB to node CPII-HM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MHN to node FCRB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-HM to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-HM to node FCRB
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-HM to node UERJ-CL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CPII-HM to node CPII-HM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-CL to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-CL to node CPII-HM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-CL to node UNIRIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-CL to node UERJ-CL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNIRIO to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIRIO to node UERJ-CL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIRIO to node FESP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UNIRIO to node UNIRIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FESP to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FESP to node UNIRIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FESP to node CNEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-FESP to node FESP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CNEN to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CNEN to node FESP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CNEN to node CBPF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CNEM to node CNEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CBPF to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CBPF to node CNEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CBPF to node UFRJ-CAE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CBPF to node CBPF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-CAE to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-CAE to node CBPF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-CAE to node IFF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-CAE to node UFRJ-CAE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IFF to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFF to node UFRJ-CAE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFF to node FINEP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-IFF to node IFF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FINEP to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FINEP to node IFF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FINEP to node UERJ-CCBLS
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-FINEP to node FINEP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node PUC-RIO to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node PUC-RIO to node CAP-UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node PUC-RIO to node EMBRAPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-PUC-RIO to node PUC-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node EMBRAPA to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node EMBRAPA to node PUC-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node EMBRAPA to node JBRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-EMBRAPA to node EMBRAPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node JBRJ to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node JBRJ to node EMBRAPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node JBRJ to node IMPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-JBRJ to node JBRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IMPA to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IMPA to node JBRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IMPA to node CAP-UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-IMPA to node IMPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CAP-UERJ to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CAP-UERJ to node IMPA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CAP-UERJ to node PUC-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CAP-UERJ to node CAP-UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ to node UERJ-HUPE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ to node CPII-TJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ to node UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-TJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-TJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-TJ to node UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-TJ to node HUGG-PG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CPII-TJ to node CPII-TJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HUGG-PG to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HUGG-PG to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HUGG-PG to node CPII-TJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HUGG-PG to node HUGG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-HUGG-PG to node HUGG-PG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HUGG to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node HUGG to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HUGG to node HUGG-PG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node HUGG to node ISERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-HUGG to node HUGG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ISERJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ISERJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ISERJ to node HUGG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ISERJ to node IFECT-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-ISERJ to node ISERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IFECT-RJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IFECT-RJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFECT-RJ to node ISERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFECT-RJ to node CEFET-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-IFECT to node IFECT-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-RJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-RJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-RJ to node IFECT-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-RJ to node UFRJ-MN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CEFET to node CEFET-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-MN to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-MN to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-MN to node CEFET-RJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-MN to node INCA-II
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ-MN to node UFRJ-MN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-II to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-II to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-II to node UFRJ-MN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-II to node INTO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INCA-II to node INCA-II
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INTO to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INTO to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INTO to node INCA-II
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INTO to node CTAV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INTO to node INTO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CTAV to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CTAV to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CTAV to node INTO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CTAV to node UERJ-FEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CTAV to node CTAV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-FEN to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-FEN to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-FEN to node CTAV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-FEN to node CPII-SC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-FEN to node UERJ-FEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-SC to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-SC to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-SC to node UERJ-FEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-SC to node MAST
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CPII-SC to node CPII-SC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MAST to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MAST to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MAST to node CPII-SC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MAST to node ON
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-MAST to node MAST
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ON to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node ON to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ON to node MAST
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node ON to node CEDERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-ON to node ON
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEDERJ to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEDERJ to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEDERJ to node ON
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEDERJ to node UERJ-PPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CEDERJ to node CEDERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-PPC to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-PPC to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-PPC to node CEDERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-PPC to node CPII-EN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-PPC to node UERJ-PPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-EN to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CPII-EN to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-EN to node UERJ-PPC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CPII-EN to node INCA-III-IV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CPII-EN to node CPII-EN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-III-IV to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCA-III-IV to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-III-IV to node CPII-EN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCA-III-IV to node UERJ-HUPE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-INCA-III-IV to node INCA-III-IV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-HUPE to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-HUPE to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-HUPE to node INCA-III-IV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-HUPE to node UERJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UERJ-HUPE to node UERJ-HUPE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ to node IEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ to node CETEM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-UFRJ to node UFRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CETEM to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CETEM to node UFRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CETEM to node CEPEL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CETEM to node CETEM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEPEL to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEPEL to node CETEM
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEPEL to node IEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-CEPEL to node CEPEL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IEN to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IEN to node CEPEL
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IEN to node UFRJ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-RJ-IEN to node IEN
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node MIX-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MIX-DUP to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node MIX-DUP to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node SIX-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node SIX-DUP to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node SIX-DUP to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CBPF-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CBPF-DUP to node SIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CBPF-DUP to node RNP-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-RIO to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-RIO to node CBPF-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-RIO to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node PUC-RIO-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node PUC-RIO-DUP to node RNP-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node PUC-RIO-DUP to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-RJ-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-RJ-DUP to node PUC-RIO-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-RJ-DUP to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UERJ-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-DUP to node CEFET-RJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UERJ-DUP to node FIOCRUZ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FIOCRUZ-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ-DUP to node UERJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ-DUP to node UFRJ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFRJ-DUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-DUP to node FIOCRUZ-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFRJ-DUP to node MIX-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-RIO-SUP to node NRS-RIO
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-RIO-SUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-RIO-SUP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-SP-SUP to node NRS-SP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-SP-SUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-SP-SUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-BH-SUP to node NRS-BH
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH-SUP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH-SUP to node RNP-RIO-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FJP to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FJP to node UEMG-DEG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-FJP to node FJP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-DEG to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-DEG to node FJP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-DEG to node RNP-BH
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-DEG to node UEMG-DEG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-BH to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH to node UEMG-DEG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH to node IGA-SECTES
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-RNP-BH to node RNP-BH
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IGA-SECTES to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IGA-SECTES to node RNP-BH
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-IGA-SECTES to node IGA-SECTES
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFMG-MUSEU to node CETEC-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFMG-MUSEU to node CETEC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UFMG-MUSEU to node UFMG-MUSEU
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CETEC to node CETEC-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CETEC to node UFMG-MUSEU
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-CETEC to node CETEC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-REIT to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-REIT to node FAPEMIG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-REIT to node UEMG-PP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-REIT to node UEMG-REIT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-PP to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-PP to node UEMG-REIT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-PP to node UEMG-EDU
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-PP to node UEMG-PP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-EDU to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-EDU to node UEMG-PP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-EDU to node UEMG-GUIG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-EDU to node UEMG-EDU
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-GUIG to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-GUIG to node UEMG-EDU
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-GUIG to node UEMG-GUIG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FAPEMIG to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FAPEMIG to node UEMG-REIT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-FAPEMIG to node FAPEMIG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IFMG to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFMG to node FIOCRUZ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-IFMG to node IFMG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node PUC-MG to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node PUC-MG to node FIOCRUZ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-PUC to node PUC-MG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-MUSICA to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-MUSICA to node FIOCRUZ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-UEMG-MUSICA to node UEMG-MUSICA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FIOCRUZ to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ to node IFMG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ to node PUC-MG
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ to node UEMG-MUSICA
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-FIOCRUZ to node FIOCRUZ
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-II to node CEFET-I-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-II to node CEFET-IV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-CEFET-II to node CEFET-II
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-IV to node CEFET-I-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-IV to node CEFET-II
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-MG-CEFET-IV to node CEFET-IV
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-BH-DUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH-DUP to node CETEC-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-BH-DUP to node CEFET-I-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CETEC-DUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CETEC-DUP to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CETEC-DUP to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UEMG-REIT-DUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-REIT-DUP to node CETEC-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UEMG-REIT-DUP to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FIOCRUZ-BH-DUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ-BH-DUP to node UEMG-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FIOCRUZ-BH-DUP to node CEFET-I-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CEFET-I-DUP to node RNP-BH-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-I-DUP to node FIOCRUZ-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node CEFET-I-DUP to node RNP-BH-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UFABC to node USP-FD-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFABC to node IFSP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UFABC to node USP-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-UFABC to node UFABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node IFSP to node USP-FD-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFSP to node UFABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node IFSP to node USP-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-IFSP to node IFSP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node USP-FD to node USP-FD-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node USP-FD to node UFABC
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node USP-FD to node IFSP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-USP-FD to node USP-FD
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNESP-ITF to node UNESP-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNESP-ITF to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-UNESP-ITF to node UNESP-ITF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node FUNARTE to node UNESP-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FUNARTE to node UNESP-ITF
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node FUNARTE to node UNESP-REIT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-FUNARTE to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNESP-REIT to node UNESP-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNESP-REIT to node FUNARTE
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node CLIENTE-SP-UNESP-REIT to node UNESP-REIT
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNESP-REIT-DUP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNESP-REIT-DUP to node USP-FD-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNESP-REIT-DUP to node INCOR-SP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node USP-FD-DUP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node USP-FD-DUP to node UNESP-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node USP-FD-DUP to node UNIFESP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node UNIFESP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIFESP to node USP-FD-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node UNIFESP to node RNP-SP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node RNP-SP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-SP to node UNIFESP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node RNP-SP to node INCOR-SP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node INCOR-SP to node RNP-SP-SUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCOR-SP to node UNESP-REIT-DUP
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node INCOR-SP to node RNP-SP
+Current Time: 0 - Info: Node CPII-CENTRO started.
+Current Time: 0 - Info: Node UFRJ_OV started.
+Current Time: 0 - Info: Node HSE started.
+Current Time: 0 - Info: Node INT started.
+Current Time: 0 - Info: Node MHN started.
+Current Time: 0 - Info: Node FAPERJ started.
+Current Time: 0 - Info: Node FUNARTE started.
+Current Time: 0 - Info: Node SIX started.
+Current Time: 0 - Info: Node ABC started.
+Current Time: 0 - Info: Node DATASUS started.
+Current Time: 0 - Info: Node CAMPANEMA started.
+Current Time: 0 - Info: Node FBN started.
+Current Time: 0 - Info: Node MNBA started.
+Current Time: 0 - Info: Node UERJ-ESDI started.
+Current Time: 0 - Info: Node UFRJ-ENM started.
+Current Time: 0 - Info: Node UFRJ-IFCS started.
+Current Time: 0 - Info: Node UFRJ-FD started.
+Current Time: 0 - Info: Node INCA-I started.
+Current Time: 0 - Info: Node UFRJ-HMF started.
+Current Time: 0 - Info: Node UNIRIO-IB started.
+Current Time: 0 - Info: Node MIX started.
+Current Time: 0 - Info: Node UFRJ-EEAN started.
+Current Time: 0 - Info: Node UFRJ-HESFA started.
+Current Time: 0 - Info: Node UERJ-CCBLS started.
+Current Time: 0 - Info: Node MRPC started.
+Current Time: 0 - Info: Node CNF started.
+Current Time: 0 - Info: Node UFRJ-MAT started.
+Current Time: 0 - Info: Node INES started.
+Current Time: 0 - Info: Node INC started.
+Current Time: 0 - Info: Node FCRB started.
+Current Time: 0 - Info: Node CPII-HM started.
+Current Time: 0 - Info: Node UERJ-CL started.
+Current Time: 0 - Info: Node UNIRIO started.
+Current Time: 0 - Info: Node FESP started.
+Current Time: 0 - Info: Node CNEN started.
+Current Time: 0 - Info: Node CBPF started.
+Current Time: 0 - Info: Node UFRJ-CAE started.
+Current Time: 0 - Info: Node IFF started.
+Current Time: 0 - Info: Node FINEP started.
+Current Time: 0 - Info: Node PUC-RIO started.
+Current Time: 0 - Info: Node EMBRAPA started.
+Current Time: 0 - Info: Node JBRJ started.
+Current Time: 0 - Info: Node IMPA started.
+Current Time: 0 - Info: Node CAP-UERJ started.
+Current Time: 0 - Info: Node UERJ started.
+Current Time: 0 - Info: Node CPII-TJ started.
+Current Time: 0 - Info: Node HUGG-PG started.
+Current Time: 0 - Info: Node HUGG started.
+Current Time: 0 - Info: Node ISERJ started.
+Current Time: 0 - Info: Node IFECT-RJ started.
+Current Time: 0 - Info: Node CEFET-RJ started.
+Current Time: 0 - Info: Node UFRJ-MN started.
+Current Time: 0 - Info: Node INCA-II started.
+Current Time: 0 - Info: Node INTO started.
+Current Time: 0 - Info: Node CTAV started.
+Current Time: 0 - Info: Node UERJ-FEN started.
+Current Time: 0 - Info: Node CPII-SC started.
+Current Time: 0 - Info: Node MAST started.
+Current Time: 0 - Info: Node ON started.
+Current Time: 0 - Info: Node CEDERJ started.
+Current Time: 0 - Info: Node UERJ-PPC started.
+Current Time: 0 - Info: Node CPII-EN started.
+Current Time: 0 - Info: Node INCA-III-IV started.
+Current Time: 0 - Info: Node UERJ-HUPE started.
+Current Time: 0 - Info: Node UFRJ started.
+Current Time: 0 - Info: Node CETEM started.
+Current Time: 0 - Info: Node CEPEL started.
+Current Time: 0 - Info: Node IEN started.
+Current Time: 0 - Info: Node MIX-DUP started.
+Current Time: 0 - Info: Node SIX-DUP started.
+Current Time: 0 - Info: Node CBPF-DUP started.
+Current Time: 0 - Info: Node RNP-RIO started.
+Current Time: 0 - Info: Node PUC-RIO-DUP started.
+Current Time: 0 - Info: Node CEFET-RJ-DUP started.
+Current Time: 0 - Info: Node UERJ-DUP started.
+Current Time: 0 - Info: Node FIOCRUZ-DUP started.
+Current Time: 0 - Info: Node UFRJ-DUP started.
+Current Time: 0 - Info: Node RNP-RIO-SUP started.
+Current Time: 0 - Info: Node RNP-SP-SUP started.
+Current Time: 0 - Info: Node RNP-BH-SUP started.
+Current Time: 0 - Info: Node FJP started.
+Current Time: 0 - Info: Node UEMG-DEG started.
+Current Time: 0 - Info: Node RNP-BH started.
+Current Time: 0 - Info: Node IGA-SECTES started.
+Current Time: 0 - Info: Node UFMG-MUSEU started.
+Current Time: 0 - Info: Node CETEC started.
+Current Time: 0 - Info: Node UEMG-REIT started.
+Current Time: 0 - Info: Node UEMG-PP started.
+Current Time: 0 - Info: Node UEMG-EDU started.
+Current Time: 0 - Info: Node UEMG-GUIG started.
+Current Time: 0 - Info: Node FAPEMIG started.
+Current Time: 0 - Info: Node IFMG started.
+Current Time: 0 - Info: Node PUC-MG started.
+Current Time: 0 - Info: Node UEMG-MUSICA started.
+Current Time: 0 - Info: Node FIOCRUZ started.
+Current Time: 0 - Info: Node CEFET-II started.
+Current Time: 0 - Info: Node CEFET-IV started.
+Current Time: 0 - Info: Node RNP-BH-DUP started.
+Current Time: 0 - Info: Node CETEC-DUP started.
+Current Time: 0 - Info: Node UEMG-REIT-DUP started.
+Current Time: 0 - Info: Node FIOCRUZ-BH-DUP started.
+Current Time: 0 - Info: Node CEFET-I-DUP started.
+Current Time: 0 - Info: Node UFABC started.
+Current Time: 0 - Info: Node IFSP started.
+Current Time: 0 - Info: Node USP-FD started.
+Current Time: 0 - Info: Node UNESP-ITF started.
+Current Time: 0 - Info: Node FUNARTE started.
+Current Time: 0 - Info: Node UNESP-REIT started.
+Current Time: 0 - Info: Node UNESP-REIT-DUP started.
+Current Time: 0 - Info: Node USP-FD-DUP started.
+Current Time: 0 - Info: Node UNIFESP started.
+Current Time: 0 - Info: Node RNP-SP started.
+Current Time: 0 - Info: Node INCOR-SP started.

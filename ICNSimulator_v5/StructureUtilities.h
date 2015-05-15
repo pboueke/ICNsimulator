@@ -80,7 +80,7 @@ void Ordered_LinkedList<T>::Add(T index){
         first = e;
         last = e;
     }
-    else if (e->index > first->index){ //responsible for operator overload in stEvent class
+    else if (*(e->index) < *(first->index)){
         //Element is new first
         e->next = first;
         first = e;
@@ -89,7 +89,7 @@ void Ordered_LinkedList<T>::Add(T index){
         Element<T>* it_p = first; //Pointer to previous element
         for (Element<T>* it = first->next; it != NULL; it = it->next){
             //Iterator starts at first, ends at last-1 and next it is next element
-            if (e->index > it->index){
+            if (*(e->index) < *(it->index)){
                 it_p->next = e;
                 e->next = it;
                 ++size;

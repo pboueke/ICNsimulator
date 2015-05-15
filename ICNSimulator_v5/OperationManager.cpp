@@ -102,6 +102,8 @@ bool OperationManager::Start()
 
 	//PrintEventList(pStartEvents);
 
+	cout << "Simulation Start" << endl;
+
 	ThreadEvHandler();
 
 	TimeHandler::instance()->stopCountingSimTime();
@@ -198,7 +200,7 @@ void OperationManager::StopNodes()
 
 void OperationManager::EnqueueEvent(BaseNode* node, double time, int iTypeEv)
 {
-	stEvent* event = (stEvent*) malloc(sizeof(stEvent));
+	stEvent* event = new stEvent();
 	event->time = time;
 	event->iTypeEvent = iTypeEv;
 	event->oNode = node;
@@ -233,7 +235,13 @@ void OperationManager::EnqueueEvent(BaseNode* node, double time, int iTypeEv)
 //	event = NULL;
 
 //	pthread_mutex_lock(&mutexEventHandler_);
-	eventList_.Add(*event);
+
+	//cout << "ADD: " << event << endl;
+	//cout << "ADD: " << event->time << endl;
+	//cout << "ADD: " << event->iTypeEvent << endl;
+	//cout << "ADD: " << event->oNode << endl << endl;
+	eventList_.Add(event);
+	//cout << "Add: " << event->oNode << endl;
 	// At .Add(ev), we use operator>. In it's implementation we do not add add 0.001 to the time (as we do in OperationManager::Sorter)
 	// of the event we are comparing it to since the operator must not change any of the values. This may cause multiple events with the
 	// same time, witch did not happen in the original code.
@@ -281,6 +289,7 @@ void OperationManager::FindEventBackward(stEvent* source, stEvent* toFind)
 
 	else
 	{
+
 		toFind->nextEv = source->nextEv;
 		toFind->previousEv = source;
 		source->nextEv->previousEv = toFind;
@@ -305,14 +314,19 @@ stEvent* OperationManager::DequeueEvent()
 
 	if(eventList_.Size() > 0)
 	{
-		stEvent* ev = new stEvent(eventList_.Remove_Head());
+		stEvent* event = eventList_.Remove_Head();
+
+		//cout << "REMOVE: " << event << endl;
+		//cout << "REMOVE: " << event->time << endl;
+		//cout << "REMOVE: " << event->iTypeEvent << endl;
+		//cout << "REMOVE: " << event->oNode << endl << endl;
+		//cout << "Remove: " << ev->oNode << endl;
 		//stEvent* ev = eventList_[0];
 		//eventList_.erase(eventList_.begin());
 
 		//Logger::instance()->LogInfo("OperationManager::DequeueEventAtCurrentTime - Event at " + StringUtility::toString(ev->time) + " deleted. Array size = " + StringUtility::toString((int)eventList_.size()));
-		return ev;
+		return event;
 	}
-
 	return NULL;
 }
 
@@ -607,6 +621,7 @@ bool stEvent::operator>(stEvent& s_ev){
 	double aux_time = s_ev.time;
 	if(this->time == aux_time)
 		aux_time += 0.001;
+	//cout << "operator do eventureiro"<<endl;
 
 	return this->time > aux_time;
 }
@@ -623,6 +638,7 @@ stEvent::stEvent(){};
 
 stEvent::stEvent(const stEvent& other){
 //	this = *ev_ptr;
+	//cout << "AAA " << other.oNode <<  endl;
 	time = other.time;
 	oNode = other.oNode;
 	nextEv = other.nextEv;

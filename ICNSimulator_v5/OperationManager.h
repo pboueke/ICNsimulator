@@ -128,7 +128,7 @@ private:
 
 	SimConfiguration* config_;
 	vector<BaseNode*> nodes_;
-	Ordered_LinkedList<stEvent> eventList_; 	//vector<stEvent*> eventList_;
+	Ordered_LinkedList<stEvent*> eventList_; 	//vector<stEvent*> eventList_;
 	stEvent* pStartEvents;
 	stEvent* pEndEvents;
 	stEvent* pMiddleEvents;

@@ -1,0 +1,117 @@
+Current Time: 0 - Info: PESC/COPPE - UFRJ
+Current Time: 0 - Info: ICN Simulator - Version 5.0.0.0
+Current Time: 0 - Info: Storage algorithm: RC
+Current Time: 0 - Info: SimConfiguration::Parser - TraceParams [0,100], IsEnabled = 0
+Current Time: 0 - Info: SimConfiguration::FillLimitsParams - RC Limits loaded (5,5)
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:25,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:26,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:26,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:26,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (2), number of parameters = 2
+Current Time: 0 - Info: Parameters:1,0,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (3), number of parameters = 1
+Current Time: 0 - Info: Parameters:1.2,
+Current Time: 0 - Info: SimConfiguration::FillDistParams - Distribution Params loaded (0), number of parameters = 1
+Current Time: 0 - Info: Parameters:14.28,
+Current Time: 0 - Info: SimConfiguration::Parser - Number of nodes = 13
+Current Time: 0 - Info: SimConfiguration::Parser - Number of domains = 2
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (client1)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (client2)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (client3)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (client4)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router1)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router2)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router3)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router4)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router5)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router6)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router7)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (router8)
+Current Time: 0 - Info: Cache replacement type: 0, Cache size: 3
+Current Time: 0 - Info: SimConfiguration::Parser - Node loaded (nrs1)
+Current Time: 0 - Info: SimConfiguration::Parser - Number of contents = 10
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content1)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content2)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content3)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content4)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content5)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content6)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content7)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content8)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content9)
+Current Time: 0 - Info: SimConfiguration::Parser - Content loaded (content10)
+Current Time: 0 - Info: OperationManager::LoadConfiguration - Configuration loaded.
+Current Time: 0 - Info: TimeHandler::startCountingSimTime - Start simulation at 05/14/15 11:36:10
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node client1
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node client2
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node client3
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating client node client4
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router1
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router2
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router3
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router4
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router5
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router6
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router7
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating RC router node (NO QUEUE & NO CACHE) router8
+Current Time: 0 - Info: OperationManager::CreateNodes - Creating NRS server node nrs1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node client1 to node router1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node client2 to node router2
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node client3 to node router3
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node client4 to node router4
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router1 to node router5
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router1 to node router2
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router1 to node router3
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router1 to node router4
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router2 to node router6
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router2 to node router1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router2 to node router3
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router2 to node router4
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router3 to node router7
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router3 to node router1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router3 to node router2
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router3 to node router4
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router4 to node router8
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router4 to node router1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router4 to node router2
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router4 to node router3
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router5 to node nrs1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router5 to node router6
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router5 to node router7
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router5 to node router8
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router6 to node nrs1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router6 to node router5
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router6 to node router7
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router6 to node router8
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router7 to node nrs1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router7 to node router5
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router7 to node router6
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router7 to node router8
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedAbove - Connecting node router8 to node nrs1
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router8 to node router5
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router8 to node router6
+Current Time: 0 - Info: BaseNode::InsertNodesConnectedDomain - Connecting node router8 to node router7
+Current Time: 0 - Info: Node router1 started.
+Current Time: 0 - Info: Node router2 started.
+Current Time: 0 - Info: Node router3 started.
+Current Time: 0 - Info: Node router4 started.
+Current Time: 0 - Info: Node router5 started.
+Current Time: 0 - Info: Node router6 started.
+Current Time: 0 - Info: Node router7 started.
+Current Time: 0 - Info: Node router8 started.
