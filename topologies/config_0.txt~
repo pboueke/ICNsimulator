@@ -47,7 +47,7 @@ Params=14.28
 
 [Topology]
 NodesNumber=13
-DomainsNumber=1
+DomainsNumber=3
 
 [NodeParams]
 Type=0

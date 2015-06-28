@@ -33,6 +33,11 @@ Domain=2
 Type=0
 Params=26
 
+[TransmissionDistParams]
+Domain=3
+Type=0
+Params=26
+
 [RandomDistParams]
 Type=2
 Params=1;0
@@ -46,8 +51,8 @@ Type=0
 Params=14.28
 
 [Topology]
-NodesNumber=13
-DomainsNumber=1
+NodesNumber=21
+DomainsNumber=4
 
 [NodeParams]
 Type=0
@@ -55,7 +60,7 @@ Name=client1
 Ident=1
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=9
+NodesAboveConnected=17
 DomainnodesConnected=
 
 [NodeParams]
@@ -64,7 +69,7 @@ Name=client2
 Ident=2
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=9
+NodesAboveConnected=17
 DomainnodesConnected=
 
 [NodeParams]
@@ -73,7 +78,7 @@ Name=client3
 Ident=3
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=10
+NodesAboveConnected=17
 DomainnodesConnected=
 
 [NodeParams]
@@ -82,7 +87,7 @@ Name=client4
 Ident=4
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=10
+NodesAboveConnected=17
 DomainnodesConnected=
 
 [NodeParams]
@@ -91,7 +96,7 @@ Name=client5
 Ident=5
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=11
+NodesAboveConnected=18
 DomainnodesConnected=
 
 [NodeParams]
@@ -100,7 +105,7 @@ Name=client6
 Ident=6
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=11
+NodesAboveConnected=18
 DomainnodesConnected=
 
 [NodeParams]
@@ -109,7 +114,7 @@ Name=client7
 Ident=7
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=12
+NodesAboveConnected=18
 DomainnodesConnected=
 
 [NodeParams]
@@ -118,49 +123,121 @@ Name=client8
 Ident=8
 DomainIdent=0
 CacheSize=3;0
-NodesAboveConnected=12
+NodesAboveConnected=18
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client9
+Ident=9
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=19
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client10
+Ident=10
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=19
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client11
+Ident=11
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=19
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client12
+Ident=12
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=19
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client13
+Ident=13
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=20
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client14
+Ident=14
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=20
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client15
+Ident=15
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=20
+DomainnodesConnected=
+
+[NodeParams]
+Type=0
+Name=client16
+Ident=16
+DomainIdent=0
+CacheSize=3;0
+NodesAboveConnected=20
 DomainnodesConnected=
 
 [NodeParams]
 Type=1
 Name=router1
-Ident=9
-DomainIdent=1
+Ident=17
+DomainIdent=2
 CacheSize=3;0
-NodesAboveConnected=13
-DomainnodesConnected=10;11;12
+NodesAboveConnected=21
+DomainnodesConnected=18;19;20
 
 [NodeParams]
 Type=1
 Name=router2
-Ident=10
-DomainIdent=1
+Ident=18
+DomainIdent=2
 CacheSize=3;0
-NodesAboveConnected=13
-DomainnodesConnected=9;11;12
+NodesAboveConnected=21
+DomainnodesConnected=17;19;20
 
 [NodeParams]
 Type=1
 Name=router3
-Ident=11
-DomainIdent=1
+Ident=19
+DomainIdent=2
 CacheSize=3;0
-NodesAboveConnected=13
-DomainnodesConnected=9;10;12
+NodesAboveConnected=21
+DomainnodesConnected=17;18;20
 
 [NodeParams]
 Type=1
 Name=router4
-Ident=12
-DomainIdent=1
+Ident=20
+DomainIdent=2
 CacheSize=3;0
-NodesAboveConnected=13
-DomainnodesConnected=9;10;11
+NodesAboveConnected=21
+DomainnodesConnected=17;18;19
 
 [NodeParams]
 Type=2
 Name=nrs1
-Ident=13
+Ident=21
 DomainIdent=0
 CacheSize=3;0
 NodesAboveConnected=
