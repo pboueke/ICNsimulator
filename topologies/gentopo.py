@@ -59,9 +59,9 @@ class Content:
 #--------------------------------------------#
 
 def write_header():
-	SimTime = 100000
+	SimTime = 100
 	TTL = int(raw_input("Enter TTL Limit: "))
-	CacheAlgorithm = 0
+	CacheAlgorithm = 1
 	DebugOper = 1
 	DebugRouter = 0
 	DebugClient = 0
@@ -95,7 +95,7 @@ def write_header():
 def gen_domains():
 	n_domains = int(raw_input("Enter number of domains: "))
 	domains = []
-	for i in range(n_domains):
+	for i in range(n_domains+1):
 		typ = 0
 		param = 26
 		domains.append(Domain(i, typ, param))
@@ -130,14 +130,14 @@ def gen_nodes(d):
 	nodes = []
 	for i in range(1,n_clients+1):
 		node = Node(i, "client"+str(i), 0, 0, (3,0))
-		node.connect_node_above(int(raw_input("Enter router id for client %d: " % (i))))
+		node.connect_node_above(n_clients+1 + ((i-1)/4))
 		nodes.append(node)
 	for i in range(1,n_nodes-n_clients):
-		dom = int(raw_input("Enter router domain id for router %d: " % (i)))
+		dom = ((i-1)/8) + 1
 		node = Node(i+n_clients, "router"+str(i), 1, dom, (3,0))
-		node.connect_node_above(int(raw_input("Enter above id for router %d: " % (i))))
+		node.connect_node_above(n_nodes)
 		nodes.append(node)
-		domains[dom].append(node)
+		domains[dom-1].append(node)
 	for domain in domains:
 		for node in domain:
 			for other in domain:
@@ -168,7 +168,7 @@ for domain in domains:
 out.write(sub_header+"\n")
 out.write("[Topology]\n")
 out.write("NodesNumber=%d\n" % (len(nodes)))
-out.write("DomainsNumber=%d\n\n" % (len(domains)))
+out.write("DomainsNumber=%d\n\n" % (len(domains)-1))
 for node in nodes:
 	out.write(str(node)+"\n")
 out.write("[ContentItems]\n")

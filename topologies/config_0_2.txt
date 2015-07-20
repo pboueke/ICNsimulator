@@ -1,6 +1,6 @@
-SimTime=100000
+SimTime=50000
 TTLLimits=2
-CacheAlgorithm=0
+CacheAlgorithm=1
 DebugOper=1
 DebugRouter=0
 DebugClient=0

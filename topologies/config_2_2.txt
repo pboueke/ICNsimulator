@@ -1,6 +1,6 @@
-SimTime=100000
+SimTime=10000
 TTLLimits=2
-CacheAlgorithm=0
+CacheAlgorithm=1
 DebugOper=1
 DebugRouter=0
 DebugClient=0
@@ -30,26 +30,6 @@ Params=26
 
 [TransmissionDistParams]
 Domain=2
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=3
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=4
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=5
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=6
 Type=0
 Params=26
 
@@ -361,7 +341,7 @@ DomainnodesConnected=
 Type=1
 Name=router1
 Ident=33
-DomainIdent=5
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=34;35;36
@@ -370,7 +350,7 @@ DomainnodesConnected=34;35;36
 Type=1
 Name=router2
 Ident=34
-DomainIdent=5
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=33;35;36
@@ -379,7 +359,7 @@ DomainnodesConnected=33;35;36
 Type=1
 Name=router3
 Ident=35
-DomainIdent=5
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=33;34;36
@@ -388,7 +368,7 @@ DomainnodesConnected=33;34;36
 Type=1
 Name=router4
 Ident=36
-DomainIdent=5
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=33;34;35
@@ -397,7 +377,7 @@ DomainnodesConnected=33;34;35
 Type=1
 Name=router5
 Ident=37
-DomainIdent=6
+DomainIdent=2
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=38;39;40
@@ -406,7 +386,7 @@ DomainnodesConnected=38;39;40
 Type=1
 Name=router6
 Ident=38
-DomainIdent=6
+DomainIdent=2
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=37;39;40
@@ -415,7 +395,7 @@ DomainnodesConnected=37;39;40
 Type=1
 Name=router7
 Ident=39
-DomainIdent=6
+DomainIdent=2
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=37;38;40
@@ -424,7 +404,7 @@ DomainnodesConnected=37;38;40
 Type=1
 Name=router8
 Ident=40
-DomainIdent=6
+DomainIdent=2
 CacheSize=3;0
 NodesAboveConnected=41
 DomainnodesConnected=37;38;39

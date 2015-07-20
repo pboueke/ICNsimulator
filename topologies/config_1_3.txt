@@ -1,6 +1,6 @@
-SimTime=100000
+SimTime=25000
 TTLLimits=3
-CacheAlgorithm=0
+CacheAlgorithm=1
 DebugOper=1
 DebugRouter=0
 DebugClient=0
@@ -25,16 +25,6 @@ Params=26
 
 [TransmissionDistParams]
 Domain=1
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=2
-Type=0
-Params=26
-
-[TransmissionDistParams]
-Domain=3
 Type=0
 Params=26
 
@@ -202,7 +192,7 @@ DomainnodesConnected=
 Type=1
 Name=router1
 Ident=17
-DomainIdent=2
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=21
 DomainnodesConnected=18;19;20
@@ -211,7 +201,7 @@ DomainnodesConnected=18;19;20
 Type=1
 Name=router2
 Ident=18
-DomainIdent=2
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=21
 DomainnodesConnected=17;19;20
@@ -220,7 +210,7 @@ DomainnodesConnected=17;19;20
 Type=1
 Name=router3
 Ident=19
-DomainIdent=2
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=21
 DomainnodesConnected=17;18;20
@@ -229,7 +219,7 @@ DomainnodesConnected=17;18;20
 Type=1
 Name=router4
 Ident=20
-DomainIdent=2
+DomainIdent=1
 CacheSize=3;0
 NodesAboveConnected=21
 DomainnodesConnected=17;18;19
