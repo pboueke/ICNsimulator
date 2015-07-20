@@ -209,8 +209,8 @@ void OperationManager::EnqueueEvent(BaseNode* node, double time, int iTypeEv)
 
 	countEvents_++;
 
-//	Logger::instance()->LogInfo("OperationManager::EnqueueEvent - Enqueuing the event time " + StringUtility::toString(time) +
-//			", Queue size = " + StringUtility::toString(countEvents_) + ", Event = " + StringUtility::toString(iTypeEv) + ", Node = " + node->GetConfig()->sName);
+	//Logger::instance()->LogInfo("OperationManager::EnqueueEvent - Enqueuing the event time " + StringUtility::toString(time) +
+	//		", Queue size = " + StringUtility::toString(countEvents_) + ", Event = " + StringUtility::toString(iTypeEv) + ", Node = " + node->GetConfig()->sName);
 
 /*	if(pStartEvents == NULL)
 		pStartEvents = pMiddleEvents = pEndEvents = event;
@@ -324,7 +324,7 @@ stEvent* OperationManager::DequeueEvent()
 		//stEvent* ev = eventList_[0];
 		//eventList_.erase(eventList_.begin());
 
-		//Logger::instance()->LogInfo("OperationManager::DequeueEventAtCurrentTime - Event at " + StringUtility::toString(ev->time) + " deleted. Array size = " + StringUtility::toString((int)eventList_.size()));
+		//Logger::instance()->LogInfo("OperationManager::DequeueEventAtCurrentTime - Event at " + StringUtility::toString(event->time) + " deleted. Array size = " + StringUtility::toString((int)eventList_.size));
 		return event;
 	}
 	return NULL;
@@ -351,8 +351,8 @@ void OperationManager::ThreadEvHandler()
 		if(IsSimulationTerminated())
 			break;
 
-//		if(((int)TimeHandler::instance()->getCurrentTime() % 10000) == 0)
-//			Logger::instance()->LogInfo("OperationManager::ThreadEvHandler - Simulation time: " + StringUtility::toString(TimeHandler::instance()->getCurrentTime()));
+		//if(((int)TimeHandler::instance()->getCurrentTime() % 10000) == 0)
+			//Logger::instance()->LogInfo("OperationManager::ThreadEvHandler - Simulation time: " + StringUtility::toString(TimeHandler::instance()->getCurrentTime()));
 
 //		pthread_mutex_lock(&mutexEventHandler_);
 
@@ -370,8 +370,8 @@ void OperationManager::ThreadEvHandler()
 		if(ev != NULL)
 		{
 
-//			Logger::instance()->LogInfo("OperationManager::ThreadEvHandler - (" + StringUtility::toString(ev->time) + ") Processing the event " +
-//					StringUtility::toString(ev->iTypeEvent) + " node " + ev->oNode->GetConfig()->sName + ", Domain " + StringUtility::toString(ev->oNode->GetConfig()->iDomainIdent));
+			//Logger::instance()->LogInfo("OperationManager::ThreadEvHandler - (" + StringUtility::toString(ev->time) + ") Processing the event " +
+			//		StringUtility::toString(ev->iTypeEvent) + " node " + ev->oNode->GetConfig()->sName + ", Domain " + StringUtility::toString(ev->oNode->GetConfig()->iDomainIdent));
 
 			TimeHandler::instance()->setCurrentTime(ev->time);
 			ev->oNode->ProcessEvent(ev->iTypeEvent);
